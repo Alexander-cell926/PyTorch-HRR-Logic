@@ -1,0 +1,7 @@
+### 📄 FILE: `requirements.txt`
+*Standard practice for any Python repo.*
+
+```text
+torch>=2.0.0
+numpy>=1.24.0
+shlex>=3.0.0
