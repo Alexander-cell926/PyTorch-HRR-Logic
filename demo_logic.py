@@ -3,7 +3,7 @@ from hrr_core import HRR
 
 def main():
     print("========================================")
-    print("   🔮 ARTIFACT #3: THE LOGIC ENGINE")
+    print("THE LOGIC ENGINE")
     print("========================================")
     
     # 1. SETUP
@@ -78,3 +78,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
